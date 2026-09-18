@@ -1,4 +1,4 @@
-# DAILY PACK 2026-09-19_0135 (server time UTC+3)
+# DAILY PACK 2026-09-19_0205 (server time UTC+3)
 
 Auto-built on the server. Four parts: method, journal, bars and swings, positioning and rates.
 
@@ -322,7 +322,7 @@ ATR, появились пятёрки, шесть уровней пробито
 
 # FX REPORT
 
-- сформирован: 2026-09-18 22:35 UTC
+- сформирован: 2026-09-18 23:05 UTC
 - терминал: AMarkets - MetaTrader 5 / сервер AMarkets-Real
 - все времена в таблицах — время сервера брокера
 - звёздочка в типе свинга (H*/L*) = экстремум ещё не подтверждён откатом
