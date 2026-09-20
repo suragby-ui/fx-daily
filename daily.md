@@ -1,4 +1,4 @@
-# DAILY PACK 2026-09-20_2235 (server time UTC+3)
+# DAILY PACK 2026-09-20_2306 (server time UTC+3)
 
 Auto-built on the server. Four parts: method, journal, bars and swings, positioning and rates.
 
@@ -364,7 +364,7 @@ failure to respond и всё равно заложил обычную связь
 
 # FX REPORT
 
-- сформирован: 2026-09-20 19:35 UTC
+- сформирован: 2026-09-20 20:05 UTC
 - терминал: AMarkets - MetaTrader 5 / сервер AMarkets-Real
 - все времена в таблицах — время сервера брокера
 - звёздочка в типе свинга (H*/L*) = экстремум ещё не подтверждён откатом
@@ -2529,7 +2529,7 @@ failure to respond и всё равно заложил обычную связь
 
 # MARKET CONTEXT
 
-- сформирован: 2026-09-20 07:35 UTC
+- сформирован: 2026-09-20 20:05 UTC
 - источники: www.cftc.gov (COT), FRED (ставки и волатильность)
 - COT выходит по пятницам 15:30 по Нью-Йорку, данные на вторник —
   то есть всегда с лагом в три дня.
