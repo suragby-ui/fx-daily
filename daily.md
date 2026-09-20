@@ -1,4 +1,4 @@
-# DAILY PACK 2026-09-20_1205 (server time UTC+3)
+# DAILY PACK 2026-09-20_1235 (server time UTC+3)
 
 Auto-built on the server. Four parts: method, journal, bars and swings, positioning and rates.
 
@@ -364,7 +364,7 @@ failure to respond и всё равно заложил обычную связь
 
 # FX REPORT
 
-- сформирован: 2026-09-20 09:05 UTC
+- сформирован: 2026-09-20 09:35 UTC
 - терминал: AMarkets - MetaTrader 5 / сервер AMarkets-Real
 - все времена в таблицах — время сервера брокера
 - звёздочка в типе свинга (H*/L*) = экстремум ещё не подтверждён откатом
