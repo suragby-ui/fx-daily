@@ -1,4 +1,4 @@
-# DAILY PACK 2026-10-05_0005 (server time UTC+3)
+# DAILY PACK 2026-10-05_0039 (server time UTC+3)
 
 Auto-built on the server. Order: method, journal, price summary and algorithm verdicts,
 positioning and rates, then per-symbol bars and swings (the long tail).
@@ -497,7 +497,7 @@ positioning and rates, then per-symbol bars and swings (the long tail).
 
 # MARKET CONTEXT
 
-- сформирован: 2026-10-04 09:05 UTC
+- сформирован: 2026-10-04 21:38 UTC
 - источники: www.cftc.gov (COT), FRED (ставки и волатильность)
 - COT выходит по пятницам 15:30 по Нью-Йорку, данные на вторник —
   то есть всегда с лагом в три дня.
@@ -628,7 +628,7 @@ positioning and rates, then per-symbol bars and swings (the long tail).
 |---|---|---|---|---|---|---|
 | VIX | 16.390 | 2026-10-01 | +0.720 | +1.190 | 39 | риск-режим |
 | GVZ — волатильность золота | 23.320 | 2026-10-01 | +0.740 | -2.110 | 23 | цена защиты по золоту |
-| EVZ — волатильность евро | 10.680 | 2025-03-11 УСТАРЕЛ на 572 дн. | +1.750 | +2.250 | 68 | цена защиты по евро |
+| EVZ — волатильность евро | 10.680 | 2025-03-11 УСТАРЕЛ на 573 дн. | +1.750 | +2.250 | 68 | цена защиты по евро |
 | OVX — волатильность нефти | 51.690 | 2026-10-01 | -2.760 | +2.560 | 55 | энергошок |
 | US 2Y | 4.780 | 2026-10-01 | -0.090 | +0.390 | 98 | ожидания по ставке |
 | US 10Y | 5.240 | 2026-10-01 | +0.060 | +0.450 | 99 | длинный конец |
