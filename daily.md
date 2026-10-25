@@ -1,4 +1,4 @@
-# DAILY PACK 2026-10-25_0405 (server time UTC+3)
+# DAILY PACK 2026-10-25_0435 (server time UTC+3)
 
 Auto-built on the server. Order: method, journal, price summary and algorithm verdicts,
 positioning and rates, then per-symbol bars and swings (the long tail).
@@ -384,7 +384,7 @@ positioning and rates, then per-symbol bars and swings (the long tail).
 
 # FX REPORT
 
-- сформирован: 2026-10-25 01:05 UTC
+- сформирован: 2026-10-25 01:35 UTC
 - терминал: AMarkets - MetaTrader 5 / сервер AMarkets-Real
 - все времена в таблицах — время сервера брокера
 - звёздочка в типе свинга (H*/L*) = экстремум ещё не подтверждён откатом
