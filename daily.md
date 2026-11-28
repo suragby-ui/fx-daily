@@ -1,4 +1,4 @@
-# DAILY PACK 2026-11-28_1639 (server time UTC+3)
+# DAILY PACK 2026-11-28_1711 (server time UTC+3)
 
 Auto-built on the server. Order: method, journal, price summary and algorithm verdicts,
 positioning and rates, then per-symbol bars and swings (the long tail).
@@ -497,7 +497,7 @@ positioning and rates, then per-symbol bars and swings (the long tail).
 
 # MARKET CONTEXT
 
-- сформирован: 2026-11-28 02:05 UTC
+- сформирован: 2026-11-28 14:09 UTC
 - источники: www.cftc.gov (COT), FRED (ставки и волатильность)
 - COT выходит по пятницам 15:30 по Нью-Йорку, данные на вторник —
   то есть всегда с лагом в три дня.
