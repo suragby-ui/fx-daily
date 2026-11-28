@@ -1,4 +1,4 @@
-# DAILY PACK 2026-11-28_1439 (server time UTC+3)
+# DAILY PACK 2026-11-28_1509 (server time UTC+3)
 
 Auto-built on the server. Order: method, journal, price summary and algorithm verdicts,
 positioning and rates, then per-symbol bars and swings (the long tail).
